@@ -1,5 +1,23 @@
-bin/
+# Binaries
+a11ylens
 *.exe
+*.out
+
+# Compiled artifacts
 *.o
 *.a
+*.dylib
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test coverage
+coverage.out
+*.test
+
+# OS
+.DS_Store
+Thumbs.db
