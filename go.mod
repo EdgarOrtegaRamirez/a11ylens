@@ -1,5 +1,5 @@
 module a11ylens
 
-go 1.25
+go 1.25.0
 
-require golang.org/x/net v0.45.0
+require golang.org/x/net v0.57.0
